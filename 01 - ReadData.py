@@ -1,6 +1,6 @@
 import pandas as pd
 
-df = pd.read_csv('C:\\dev\Demos\\AzureArch\\Exercise\\dirty_titanic.csv', sep = '|', skiprows = 4, skipfooter = 1, engine = 'python')
+df = pd.read_csv('C:\\dev\Demos\\AzureArch\\Exercise\\dirty_titanic.csv')
 
 
 '''
